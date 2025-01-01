@@ -18,7 +18,7 @@ This project demonstrates the deployment of a globally accessible, secure, and s
 
 The project architecture includes Terraform, S3, and CloudFront to create a streamlined and secure infrastructure.
 
-![Architecture Diagram](link-to-diagram-image)
+![Architecture Diagram](https://github.com/dikshyakhatri8/Deploying-a-Simple-Webpage-on-AWS/blob/main/Architecture-Diagram/cloud-programming-diagram.png)
 
 ## Links
 
@@ -80,4 +80,4 @@ Feel free to reach out with questions or suggestions via [GitHub Profile](https:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/dikshyakhatri8/Deploying-a-Simple-Webpage-on-AWS/blob/main/LICENSE.txt) file for details.
