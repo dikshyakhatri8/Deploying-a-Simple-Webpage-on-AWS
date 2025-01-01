@@ -18,7 +18,7 @@ This project demonstrates the deployment of a globally accessible, secure, and s
 
 The project architecture includes Terraform, S3, and CloudFront to create a streamlined and secure infrastructure.
 
-![Architecture Diagram](link-to-diagram-image)
+![Architecture Diagram](https://github.com/dikshyakhatri8/Deploying-a-Simple-Webpage-on-AWS/blob/main/Architecture-Diagram/cloud-programming-diagram.png)
 
 ## Links
 
